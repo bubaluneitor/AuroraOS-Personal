@@ -1,0 +1,14 @@
+[
+  {
+    "type": "research",
+    "payload": {
+      "topic": "AI trends 2026"
+    }
+  },
+  {
+    "type": "data",
+    "payload": {
+      "source": "news_site"
+    }
+  }
+]

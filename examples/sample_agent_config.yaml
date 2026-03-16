@@ -1,0 +1,5 @@
+agents:
+  - name: research-1
+    kind: research
+  - name: code-1
+    kind: code

@@ -1,0 +1,15 @@
+Aurora Presentation (outline)
+
+Slides:
+1. Title: AuroraOS — Personal AI Operating System
+2. Mission & Vision
+3. Architecture Overview
+4. Agent Ecosystem
+5. Control Hub UI
+6. Deployment & Scaling
+7. Identity & Security
+8. Evolution & Auto-Improvement
+9. Use Cases
+10. Roadmap
+11. Team & Credits
+12. Contact
